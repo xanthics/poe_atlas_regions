@@ -13,6 +13,7 @@ ranks := [1, 1, 1, 1, 1, 1, 1, 1]
 zone := 1
 
 init()
+loadstate()
 updateui()
 show := 1
 
@@ -53,9 +54,48 @@ init()
 	return
 }
 
+; load previous state at program start
+loadstate()
+{
+	if not FileExist("state.ini")
+		return
+	global ranks
+	global zone
+	file := FileOpen("state.ini", "r")
+	if !IsObject(file)
+	{
+		MsgBox Can't open "state.ini" for reading.
+		return
+	}
+	for key in [1,2,3,4,5,6,7,8]
+		ranks[key] := file.Read(1)
+	zone := file.Read(1)
+	file.Close()
+	return
+}
+
+; save current state any time the ui is updated
+savestate()
+{
+	global ranks
+	global zone
+	file := FileOpen("state.ini", "w")
+	if !IsObject(file)
+	{
+		MsgBox Can't open "state.ini" for writing.
+		return
+	}
+	for key,value in ranks
+		file.Write(value)
+	file.Write(zone)
+	file.Close()
+	return
+}
+
 ; updates the ui when there is a change
 updateui()
 {
+	savestate()
 	global overlay_x
 	global overlay_y
 	

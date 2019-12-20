@@ -11,3 +11,5 @@ item_config/__pycache__/
 test.py
 test.txt
 cloudflarebypass.py
+/images/
+/state.ini
