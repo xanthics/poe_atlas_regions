@@ -1,0 +1,22 @@
+Armoury Map 	2,5,9,11,14	Armory
+Beach Map 	1,4,8,10,14	Beach
+Cells Map 	0,0,10,13,15	Cells
+Channel Map 	0,0,0,13,15	Channel
+Colonnade Map 	4,8,11,13,16	Colonnade
+Coves Map 	3,7,10,12,15	Coves
+Dungeon Map 	0,0,0,11,14	Dungeon
+Excavation Map 	0,6,10,12,14	Excavation
+Flooded Mine Map 	0,0,9,12,14	Cavern
+Fungal Hollow Map 	2,5,9,11,14	FungalCaverns
+Glacier Map 	2,6,9,11,14	Glacier
+Infested Valley Map 	0,0,0,0,14	Infestation
+Lava Chamber Map 	4,7,11,14,16	Crematorium
+Marshes Map 	0,5,9,11,14	Marshes
+Pen Map 	3,6,9,12,14	Pen
+Plaza Map 	4,8,12,14,16	Plaza
+Racecourse Map 	3,6,10,11,14	Racecourse
+Ramparts Map 	2,6,9,11,14	Ramparts
+Shore Map 	4,7,11,13,15	Shore
+Spider Lair Map 	0,0,0,0,14	SpiderLair
+Sulphur Vents Map 	2,5,9,11,14	Corrosion
+Vault Map 	3,6,10,11,14	Vault

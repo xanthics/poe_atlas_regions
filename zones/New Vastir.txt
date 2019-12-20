@@ -1,0 +1,12 @@
+Acid Caverns Map 	0,0,0,0,15	SulphurVents
+Arcade Map 	3,6,9,11,14	Arcade
+Basilica Map 	5,9,12,14,16	Basilica
+Cage Map 	3,7,10,12,14	Cage
+Courthouse Map 	0,9,12,13,15	Courthouse
+Courtyard Map 	4,8,11,13,15	Courtyard
+Moon Temple Map 	3,7,10,12,14	LunarisTemple
+Park Map 	4,8,11,12,15	Park
+Primordial Blocks Map 	0,0,12,14,16	PrimevalRuins
+Summit Map 	0,0,0,0,16	Summit
+Sunken City Map 	0,0,0,14,16	SunkenCity
+Waste Pool Map 	4,8,11,13,15	WastePool

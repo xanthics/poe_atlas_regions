@@ -1,0 +1,13 @@
+Academy Map	4,7,11,12,14	Academy
+Castle Ruins Map	5,8,12,13,15	CastleRuins
+Chateau Map	5,9,12,14,16	Chateau
+Conservatory Map	4,7,10,12,14	Baths
+Dig Map	0,0,11,13,15	Dig
+Grotto Map	0,0,0,0,15	Grotto
+Leyline Map	3,6,10,12,14	SulphurWastes
+Malformation Map	0,0,0,14,16	Malformation
+Phantasmagoria Map	4,7,11,13,15	Phantasmagoria
+Precinct Map	0,7,12,14,15	Precinct
+Shrine Map	0,0,0,14,16	Shrine
+Terrace Map	0,0,0,0,15	HighGardens
+Vaal Pyramid Map	3,7,10,12,14	VaalPyramid

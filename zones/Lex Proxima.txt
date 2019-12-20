@@ -1,0 +1,24 @@
+Arid Lake Map 	0,5,9,11,14	AridLake
+Arsenal Map 	3,7,10,11,14	Arsenal
+Ashen Wood Map 	2,6,9,11,14	DryWoods
+Bazaar Map 	3,6,10,12,15	Bazaar
+Belfry Map 	3,7,10,12,14	Belfry
+Bog Map 	3,6,10,11,14	Bog
+Cemetery Map 	3,7,10,11,14	Cemetery
+Coral Ruins Map 	0,0,0,0,15	CorpseTrench
+Crystal Ore Map 	4,7,11,13,16	CrystalOre
+Desert Map 	2,6,9,11,14	Desert
+Dunes Map 	3,7,10,11,14	Dunes
+Fields Map 	2,5,9,11,14	Fields
+Haunted Mansion Map 	2,5,9,11,14	Chambers
+Ivory Temple Map 	0,0,0,0,14	IvoryTemple
+Jungle Valley Map 	1,4,8,10,14	JungleValley
+Mausoleum Map 	2,5,9,11,14	Mausoleum
+Maze Map 	0,0,9,11,14	Maze
+Orchard Map 	2,6,9,11,14	Orchard
+Plateau Map 	0,0,0,13,16	Plateau
+Port Map 	0,6,10,12,15	Quay
+Residence Map 	0,0,10,12,14	Residence
+Underground River Map 	0,0,0,13,16	UndergroundRiver
+Underground Sea Map 	2,6,9,11,14	UndergroundSea
+Volcano Map 	3,6,10,12,14	Volcano

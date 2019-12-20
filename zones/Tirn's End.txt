@@ -1,0 +1,16 @@
+Alleyways Map 	2,5,9,11,14	Alleyways
+Atoll Map 	0,5,9,11,14	Atoll
+City Square Map 	0,0,0,11,14	CitySquare
+Cursed Crypt Map 	2,6,9,11,14	Crypt
+Ghetto Map 	0,0,0,12,14	Ghetto
+Iceberg Map 	0,0,9,11,14	Iceberg
+Laboratory Map 	2,6,9,11,14	Laboratory
+Museum Map 	3,6,10,12,14	Museum
+Necropolis Map 	0,0,0,0,15	Necropolis
+Primordial Pool Map 	3,6,10,12,15	PrimordialPool
+Spider Forest Map 	0,0,0,0,14	SpiderForest
+Strand Map 	2,5,9,11,14	Strand
+Temple Map 	3,6,10,12,14	Temple
+Tropical Island Map 	0,5,9,11,14	TropicalIsland
+Waterways Map 	3,7,10,13,16	Waterways
+Wharf Map 	1,4,8,10,14	Wharf

@@ -1,0 +1,18 @@
+Burial Chambers Map 	0,6,9,11,14	BurialChambers
+Crater Map 	0,0,0,11,14	Tribunal
+Factory Map 	0,0,9,11,14	Factory
+Graveyard Map 	2,6,9,11,14	Graveyard
+Lighthouse Map 	0,0,10,12,15	Beacon
+Lookout Map 	2,6,9,11,14	Lookout
+Mesa Map 	3,6,10,11,14	Mesa
+Mineral Pools Map 	0,0,0,0,14	MineralPools
+Mud Geyser Map 	3,6,10,11,14	MudGeyser
+Overgrown Ruin Map 	3,7,10,12,15	OvergrownRuin
+Overgrown Shrine Map 	0,0,0,13,16	OvergrownShrine
+Peninsula Map 	2,5,9,11,14	DryPeninsula
+Pier Map 	1,4,8,10,14	Pier
+Promenade Map 	0,0,0,0,16	Promenade
+Scriptorium Map 	0,5,9,11,14	Scriptorium
+Vaal Temple Map 	0,0,0,0,16	VaalTempleBase
+Villa Map 	2,5,9,11,14	Villa
+Wasteland Map 	3,6,10,11,14	Wasteland

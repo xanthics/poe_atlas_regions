@@ -1,0 +1,15 @@
+Ancient City Map 	3,6,10,12,14	VaalCity
+Arachnid Tomb Map 	4,8,11,13,15	Arachnid
+Colosseum Map 	0,0,12,14,16	Colosseum
+Dark Forest Map 	0,0,0,14,16	DarkForest
+Defiled Cathedral Map 	4,7,10,12,14	DefiledCathedral
+Desert Spring Map 	0,0,0,0,15	Oasis
+Estuary Map 	4,7,10,12,15	Estuary
+Gardens Map 	0,9,12,13,16	Terrace
+Geode Map 	4,8,11,13,15	Quarry
+Palace Map 	0,0,0,0,15	Palace
+Relic Chambers Map 	3,7,10,11,14	Antiquary
+Sepulchre Map 	0,0,11,13,15	Sepulchre
+Siege Map 	0,8,11,13,15	Boulevard
+Tower Map 	5,9,12,14,16	Tower
+Toxic Sewer Map 	3,7,10,12,15	Sewer
